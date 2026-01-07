@@ -20,4 +20,4 @@ La base est organisée autour des entités majeures suivantes :
 ## 📁 Contenu du Dépôt
 * **/sql** : Scripts de création de la base et export complet des données au format SQL.
 * **/queries** : Fichier contenant l'ensemble des requêtes demandées (listes d'élèves, calculs de moyennes).
-* **/docs** : Schéma relationnel de la base de données et captures d'écran de la structure des tables: 34, 44].
+* **/docs** : Schéma relationnel de la base de données et captures d'écran de la structure des tables.
